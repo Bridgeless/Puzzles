@@ -32,10 +32,10 @@ public class TheGridSearch {
             System.out.println("NO");
         }
         
-        for(int i = 0; i < twoDArr.length; i++)
-        {
-        	for(int j = 0; j )
-        }
+//        for(int i = 0; i < twoDArr.length; i++)
+//        {
+//        	for(int j = 0; j )
+//        }
 		
 		System.out.println(innerArr[1][0]);
 	}
